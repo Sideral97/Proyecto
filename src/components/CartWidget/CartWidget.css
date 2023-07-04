@@ -1,0 +1,22 @@
+.CartWidgetCount {
+    background-color: black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 18px;
+    color: white;
+    margin-left: 5px;  
+    font-weight: bold; 
+  }
+
+.CartButton {
+    background-color: turquoise;
+    padding: 5px;   
+    border-radius: 10px;
+    border: none;
+    opacity: 0.8;
+}
+
+.CartButton:hover{
+    opacity: 1;
+}
+  
